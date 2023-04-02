@@ -1,5 +1,7 @@
 # DoNature
  
+ Site is live at : https://abaan-tamboli.github.io/DoNature/index.html
+ 
 DoNature is a web-based platform that aims to help people donate extra food to those in need. The website is built using web technologies and will use Firebase and other Google technologies to facilitate the process of food donation.
 
 The website works by allowing users to sign up and create an account. Once the user has created an account, they can navigate to the "Donate Food" section of the website. Here, they can enter details about the food they would like to donate. This includes information such as what type of food it is, when it will be ready for pick-up, and where it is located.
